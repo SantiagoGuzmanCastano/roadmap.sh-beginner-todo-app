@@ -1,6 +1,6 @@
 # 📝 Task Tracker CLI
 
-A command-line interface (CLI) app to track and manage your tasks. Built with Python as part of the [Roadmap.sh](https://roadmap.sh) beginner projects.
+A command-line interface (CLI) app to track and manage your tasks. Built with Python as part of the [Roadmap.sh](https://roadmap.sh/backend/projects) beginner projects.
 
 ## Features
 
